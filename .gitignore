@@ -1,0 +1,21 @@
+# useless files
+*.o
+*.gc*
+vgcore*
+.clang-tidy
+*.log
+
+# Binary files
+plazza
+unit_tests
+
+# Docs
+/doc/html
+
+# Environments
+.vscode
+.idea
+.fleet
+
+*.sh
+Dockerfile
